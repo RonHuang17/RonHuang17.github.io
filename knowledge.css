@@ -1,0 +1,563 @@
+.mediaViewInfo {
+	--web-view-name: Knowledge;
+	--web-view-id: Knowledge;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Knowledge;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Knowledge_Class {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 841.89px;
+	height: 595.276px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Knowledge;
+	--web-view-id: Knowledge;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+.___2x_Class {
+	position: absolute;
+	width: 847px;
+	height: 596px;
+	left: -1.78px;
+	top: 0px;
+	overflow: visible;
+}
+.___2_Class {
+	position: absolute;
+	width: 747.671px;
+	height: 317.283px;
+	left: 48.38px;
+	top: 195.75px;
+	overflow: visible;
+}
+._______Class {
+	position: absolute;
+	width: 747.671px;
+	height: 317.283px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+._______o_Class {
+	opacity: 0.8;
+}
+._______o {
+	position: absolute;
+	overflow: visible;
+	width: 747.671px;
+	height: 317.283px;
+	left: 0px;
+	top: 0px;
+}
+.__179_Class {
+	position: absolute;
+	width: 634.426px;
+	height: 268.016px;
+	left: 67.08px;
+	top: 28.524px;
+	overflow: visible;
+}
+.__176_Class {
+	position: absolute;
+	width: 442px;
+	height: 263px;
+	left: 192.426px;
+	top: 5.016px;
+	overflow: visible;
+}
+._________5___Aa__Ii_Uu__Ee__Oo_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 443px;
+	white-space: nowrap;
+	line-height: 47.77143096923828px;
+	margin-top: -11.94286060333252px;
+	text-align: left;
+	font-family: DFPOP1-W9-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23.885709762573242px;
+	color: rgba(26,19,17,1);
+}
+.____iconBig_Class {
+	position: absolute;
+	width: 172.08px;
+	height: 238.806px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+._____Class {
+	position: absolute;
+	left: 12.714px;
+	top: 0px;
+	overflow: visible;
+	width: 144px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: DFPOP1-W9-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35.82857131958008px;
+	color: rgba(26,19,17,1);
+}
+.___137_Class {
+	opacity: 0.75;
+	position: absolute;
+	width: 172.08px;
+	height: 172.08px;
+	left: 0px;
+	top: 66.726px;
+	overflow: visible;
+}
+.___138_Class {
+	position: absolute;
+	width: 141.913px;
+	height: 141.913px;
+	left: 8.133px;
+	top: 74.834px;
+	overflow: visible;
+}
+.____Class {
+	position: absolute;
+	width: 782.839px;
+	height: 136.43px;
+	left: 39.812px;
+	top: 30px;
+	overflow: visible;
+}
+.___145_y {
+	filter: drop-shadow(7px 7px 5px rgba(26, 19, 17, 0.749));
+	position: absolute;
+	overflow: visible;
+	width: 793.514px;
+	height: 142.522px;
+	left: 0px;
+	top: 0.843px;
+}
+.___icon_Class {
+	position: absolute;
+	width: 120.48px;
+	height: 125.04px;
+	left: 246.589px;
+	top: 8.701px;
+	overflow: visible;
+}
+.__188_Class {
+	position: absolute;
+	width: 102.72px;
+	height: 93.6px;
+	left: 6.96px;
+	top: 0px;
+	overflow: visible;
+}
+.___146_Class {
+	opacity: 0.75;
+	position: absolute;
+	width: 102.72px;
+	height: 93.6px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.__187_Class {
+	position: absolute;
+	width: 72.027px;
+	height: 72.027px;
+	left: 12.512px;
+	top: 7.91px;
+	overflow: visible;
+}
+.___147_Class {
+	position: absolute;
+	width: 72.027px;
+	height: 72.027px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.__191_Class {
+	position: absolute;
+	width: 120.48px;
+	height: 59.04px;
+	left: 0px;
+	top: 66px;
+	overflow: visible;
+}
+.___148_Class {
+	opacity: 0.75;
+	position: absolute;
+	width: 120.48px;
+	height: 59.04px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.__190_Class {
+	position: absolute;
+	width: 89.009px;
+	height: 27.576px;
+	left: 12.876px;
+	top: 12.968px;
+	overflow: visible;
+}
+.__189_Class {
+	position: absolute;
+	width: 89.009px;
+	height: 27.576px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.___149 {
+	position: absolute;
+	overflow: visible;
+	width: 90.009px;
+	height: 28.576px;
+	left: 0px;
+	top: 0px;
+}
+.____ba_Class {
+	position: absolute;
+	left: 18.343px;
+	top: 4.626px;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	line-height: 21.54595184326172px;
+	margin-top: -1.7954959869384766px;
+	text-align: left;
+	font-family: DFPOP1-W9-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17.954959869384766px;
+	color: rgba(255,255,255,1);
+}
+.____bb_Class {
+	position: absolute;
+	left: 18.343px;
+	top: 4.626px;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	line-height: 21.54595184326172px;
+	margin-top: -1.7954959869384766px;
+	text-align: left;
+	font-family: DFPOP1-W9-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17.954959869384766px;
+	color: rgba(26,19,17,1);
+}
+.__icon_Class {
+	position: absolute;
+	width: 138.72px;
+	height: 132.523px;
+	left: 505.639px;
+	top: 3.908px;
+	overflow: visible;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
+}
+.___150_Class {
+	position: absolute;
+	width: 104.742px;
+	height: 104.742px;
+	left: 13.356px;
+	top: 0px;
+	overflow: visible;
+}
+.__196_Class {
+	position: absolute;
+	width: 138.72px;
+	height: 77.28px;
+	left: 0px;
+	top: 55.243px;
+	overflow: visible;
+}
+.__195_Class {
+	position: absolute;
+	width: 138.72px;
+	height: 77.28px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.___151_Class {
+	opacity: 0.75;
+	position: absolute;
+	width: 138.72px;
+	height: 77.28px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.__194_Class {
+	position: absolute;
+	width: 99.857px;
+	height: 38.306px;
+	left: 15.798px;
+	top: 15.964px;
+	overflow: visible;
+}
+.__193_Class {
+	position: absolute;
+	width: 99.857px;
+	height: 38.306px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.___152_bj {
+	position: absolute;
+	overflow: visible;
+	width: 100.857px;
+	height: 39.306px;
+	left: 0px;
+	top: 0px;
+}
+.___Class {
+	position: absolute;
+	left: 29.083px;
+	top: 9.872px;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	line-height: 29.92984962463379px;
+	margin-top: -4.9649248123168945px;
+	text-align: left;
+	font-family: DFPOP1-W9-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.___bl_Class {
+	position: absolute;
+	left: 29.083px;
+	top: 9.872px;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	line-height: 29.92984962463379px;
+	margin-top: -4.9649248123168945px;
+	text-align: left;
+	font-family: DFPOP1-W9-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(26,19,17,1);
+}
+.__icon_bm_Class {
+	position: absolute;
+	width: 119.76px;
+	height: 119.516px;
+	left: 363.328px;
+	top: 12.604px;
+	overflow: visible;
+}
+.___156_Class {
+	opacity: 0.75;
+	position: absolute;
+	width: 119.76px;
+	height: 58.8px;
+	left: 0px;
+	top: 60.716px;
+	overflow: visible;
+}
+.__201_Class {
+	position: absolute;
+	width: 88.423px;
+	height: 27.394px;
+	left: 12.898px;
+	top: 73.563px;
+	overflow: visible;
+}
+.__200_Class {
+	position: absolute;
+	width: 88.423px;
+	height: 27.394px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.___157 {
+	position: absolute;
+	overflow: visible;
+	width: 89.423px;
+	height: 28.394px;
+	left: 0px;
+	top: 0px;
+}
+.___br_Class {
+	position: absolute;
+	left: 26.726px;
+	top: 4.503px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	line-height: 21.40425682067871px;
+	margin-top: -1.7836885452270508px;
+	text-align: left;
+	font-family: DFPOP1-W9-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17.83687973022461px;
+	color: rgba(255,255,255,1);
+}
+.___bs_Class {
+	position: absolute;
+	left: 26.726px;
+	top: 4.503px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	line-height: 21.40425682067871px;
+	margin-top: -1.7836885452270508px;
+	text-align: left;
+	font-family: DFPOP1-W9-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17.83687973022461px;
+	color: rgba(26,19,17,1);
+}
+.___161_Class {
+	position: absolute;
+	width: 71.544px;
+	height: 71.544px;
+	left: 25.929px;
+	top: 0px;
+	overflow: visible;
+}
+.____icon_Class {
+	position: absolute;
+	width: 138.72px;
+	height: 127.231px;
+	left: 644.119px;
+	top: 9.2px;
+	overflow: visible;
+}
+.___153_Class {
+	position: absolute;
+	width: 103.601px;
+	height: 103.601px;
+	left: 19.102px;
+	top: 0px;
+	overflow: visible;
+}
+.__199_Class {
+	position: absolute;
+	width: 138.72px;
+	height: 77.28px;
+	left: 0px;
+	top: 49.951px;
+	overflow: visible;
+}
+.___154_Class {
+	opacity: 0.75;
+	position: absolute;
+	width: 138.72px;
+	height: 77.28px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.__198_Class {
+	position: absolute;
+	width: 99.857px;
+	height: 38.306px;
+	left: 15.913px;
+	top: 15.964px;
+	overflow: visible;
+}
+.__197_Class {
+	position: absolute;
+	width: 99.857px;
+	height: 38.306px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.___155_b {
+	position: absolute;
+	overflow: visible;
+	width: 100.857px;
+	height: 39.306px;
+	left: 0px;
+	top: 0px;
+}
+._____b_Class {
+	position: absolute;
+	left: 10.286px;
+	top: 9.873px;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	line-height: 29.92984962463379px;
+	margin-top: -4.9649248123168945px;
+	text-align: left;
+	font-family: DFPOP1-W9-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+._____ca_Class {
+	position: absolute;
+	left: 10.286px;
+	top: 9.873px;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	line-height: 29.92984962463379px;
+	margin-top: -4.9649248123168945px;
+	text-align: left;
+	font-family: DFPOP1-W9-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(26,19,17,1);
+}
+.___logo_2x_Class {
+	position: absolute;
+	width: 147px;
+	height: 130px;
+	left: 10.408px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}

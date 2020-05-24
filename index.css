@@ -1,0 +1,103 @@
+.mediaViewInfo {
+	--web-view-name: Login;
+	--web-view-id: Login;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Login;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Login_Class {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 841.89px;
+	height: 595.276px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Login;
+	--web-view-id: Login;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+.LoginBG_2x_Class {
+	position: absolute;
+	width: 848px;
+	height: 596px;
+	left: -3px;
+	top: 0px;
+	overflow: visible;
+}
+.firstsight_Class {
+	position: absolute;
+	width: 697.52px;
+	height: 274px;
+	left: 65.32px;
+	top: 145.36px;
+	overflow: visible;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
+}
+.____logo_2x_Class {
+	position: absolute;
+	width: 274px;
+	height: 274px;
+	left: 215.67px;
+	top: 0px;
+	overflow: visible;
+}
+.___textlogo_2x_Class {
+	position: absolute;
+	width: 198px;
+	height: 91px;
+	left: 499.52px;
+	top: 50.36px;
+	overflow: visible;
+}
+._____2x_Class {
+	position: absolute;
+	width: 184px;
+	height: 46px;
+	left: 0px;
+	top: 65.5px;
+	overflow: visible;
+}
+.___273_Class {
+	position: absolute;
+	width: 56.111px;
+	height: 56.111px;
+	left: 394.508px;
+	top: 471.528px;
+	overflow: visible;
+}
+.Loading_2x_Class {
+	position: absolute;
+	width: 126px;
+	height: 36px;
+	left: 358.46px;
+	top: 426.18px;
+	overflow: visible;
+}
