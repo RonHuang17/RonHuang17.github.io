@@ -773,3 +773,16 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
+
+.video-wrapper{
+    position: absolute;
+    top: 0px;
+	left:240px;
+}
+.video-wrapper iframe{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 400px;
+    height: 250px;
+}
