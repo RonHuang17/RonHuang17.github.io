@@ -39,11 +39,17 @@
 	--web-refresh-for-changes: true;
 	--web-enable-deep-linking: true;
 }
-@keyframes  {
+@keyframes fadein {
 
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
 
 }
-.___2x_Class {
+.background_Class {
 	position: absolute;
 	width: 847px;
 	height: 596px;
@@ -51,31 +57,28 @@
 	top: -0.276px;
 	overflow: visible;
 }
-._______Class {
-	opacity: 0.8;
-}
-.______ {
+.layer_2_Class {
 	position: absolute;
-	overflow: visible;
-	width: 747.671px;
-	height: 317.283px;
-	left: 48.6px;
-	top: 195.75px;
-}
-.___2_Class {
-	position: absolute;
-	width: 753.772px;
-	height: 274.661px;
+	width: 784.399px;
+	height: 341.92px;
 	left: 12.091px;
-	top: 263.733px;
+	top: 196.474px;
 	overflow: visible;
 }
-.____iconBig_Class {
+.white_block_Class {
+	position: absolute;
+	width: 748px;
+	height: 318px;
+	left: 36.399px;
+	top: 0px;
+	overflow: visible;
+}
+.iconBig_exam_Class {
 	position: absolute;
 	width: 147.837px;
 	height: 187.257px;
 	left: 0px;
-	top: 3.16px;
+	top: 70.419px;
 	overflow: visible;
 }
 ._____Class {
@@ -120,7 +123,7 @@
 .________________Class {
 	position: absolute;
 	left: 184.74px;
-	top: 0px;
+	top: 67.259px;
 	overflow: visible;
 	width: 467.943px;
 	height: 67.425px;
@@ -136,7 +139,7 @@
 .Sa_icelen_no_mita_a_mihatatana_Class {
 	position: absolute;
 	left: 191.838px;
-	top: 157.818px;
+	top: 225.077px;
 	overflow: visible;
 	width: 467.943px;
 	height: 79.477px;
@@ -149,15 +152,15 @@
 	font-size: 24px;
 	color: rgba(26,19,17,1);
 }
-.__35_Class {
+.text_blank_Class {
 	position: absolute;
 	width: 523.278px;
 	height: 67.939px;
 	left: 151.853px;
-	top: 64.884px;
+	top: 132.143px;
 	overflow: visible;
 }
-.___28_cj {
+.rectangle_28_x {
 	filter: drop-shadow(7px 7px 5px rgba(26, 19, 17, 0.749));
 	position: absolute;
 	overflow: visible;
@@ -166,7 +169,7 @@
 	left: 0px;
 	top: 0px;
 }
-.___29 {
+.rectangle_29 {
 	filter: drop-shadow(6.617px 6.617px 4.727px rgba(26, 19, 17, 0.749));
 	position: absolute;
 	overflow: visible;
@@ -178,7 +181,7 @@
 ._______________Class {
 	position: absolute;
 	left: 194.919px;
-	top: 84.365px;
+	top: 151.624px;
 	overflow: visible;
 	width: 467.943px;
 	height: 69.425px;
@@ -196,10 +199,10 @@
 	width: 188.864px;
 	height: 81.944px;
 	left: 564.908px;
-	top: 192.717px;
+	top: 259.976px;
 	overflow: visible;
 }
-.___30_co {
+.___30_ {
 	filter: drop-shadow(6.009px 6.009px 4.292px rgba(26, 19, 17, 0.749));
 	position: absolute;
 	overflow: visible;
@@ -208,7 +211,7 @@
 	left: 0px;
 	top: 0px;
 }
-._____cp_Class {
+.______Class {
 	position: absolute;
 	left: 72.352px;
 	top: 4.167px;
@@ -326,7 +329,7 @@
 .ID1_10_Class {
 	position: absolute;
 	left: 640.31px;
-	top: 8.272px;
+	top: 75.53px;
 	overflow: visible;
 	width: 31px;
 	white-space: nowrap;
@@ -339,15 +342,15 @@
 	font-size: 15px;
 	color: rgba(26,19,17,1);
 }
-.____Class {
+.menu_bar_Class {
 	position: absolute;
 	width: 782.839px;
 	height: 136.43px;
-	left: 39.812px;
-	top: 30.724px;
+	left: 40.812px;
+	top: 31.724px;
 	overflow: visible;
 }
-.___145_c {
+.rectangle_145_bj {
 	filter: drop-shadow(7px 7px 5px rgba(26, 19, 17, 0.749));
 	position: absolute;
 	overflow: visible;
@@ -356,7 +359,7 @@
 	left: 0px;
 	top: 0.843px;
 }
-.___icon_Class {
+.icon_toolbox_Class {
 	position: absolute;
 	width: 120.48px;
 	height: 125.04px;
@@ -438,7 +441,7 @@
 	left: 0px;
 	top: 0px;
 }
-.____dg_Class {
+.____Class {
 	position: absolute;
 	left: 18.343px;
 	top: 4.626px;
@@ -454,7 +457,7 @@
 	font-size: 17.954959869384766px;
 	color: rgba(255,255,255,1);
 }
-.____dh_Class {
+.____bv_Class {
 	position: absolute;
 	left: 18.343px;
 	top: 4.626px;
@@ -470,7 +473,7 @@
 	font-size: 17.954959869384766px;
 	color: rgba(26,19,17,1);
 }
-.__icon_Class {
+.icon_homepage_Class {
 	position: absolute;
 	width: 138.72px;
 	height: 132.523px;
@@ -479,7 +482,7 @@
 	overflow: visible;
 	--web-animation: fadein 1s ease-out;
 	--web-action-type: page;
-	--web-action-target: knowledge.html;
+	--web-action-target: home.html;
 	cursor: pointer;
 }
 .___150_Class {
@@ -531,7 +534,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.___152_dq {
+.___152_b {
 	position: absolute;
 	overflow: visible;
 	width: 100.857px;
@@ -555,7 +558,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-.___ds_Class {
+.___b_Class {
 	position: absolute;
 	left: 29.083px;
 	top: 9.872px;
@@ -571,7 +574,7 @@
 	font-size: 20px;
 	color: rgba(26,19,17,1);
 }
-.__icon_dt_Class {
+.icon_exam_Class {
 	position: absolute;
 	width: 119.76px;
 	height: 119.516px;
@@ -612,7 +615,7 @@
 	left: 0px;
 	top: 0px;
 }
-.___dy_Class {
+.___cc_Class {
 	position: absolute;
 	left: 26.726px;
 	top: 4.503px;
@@ -628,7 +631,7 @@
 	font-size: 17.83687973022461px;
 	color: rgba(255,255,255,1);
 }
-.___dz_Class {
+.___cd_Class {
 	position: absolute;
 	left: 26.726px;
 	top: 4.503px;
@@ -652,7 +655,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.____icon_Class {
+.icon_profile_Class {
 	position: absolute;
 	width: 138.72px;
 	height: 127.231px;
@@ -701,7 +704,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.___155_d {
+.___155_cm {
 	position: absolute;
 	overflow: visible;
 	width: 100.857px;
@@ -709,7 +712,7 @@
 	left: 0px;
 	top: 0px;
 }
-._____d_Class {
+._____cn_Class {
 	position: absolute;
 	left: 10.286px;
 	top: 9.873px;
@@ -725,7 +728,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-._____ea_Class {
+._____co_Class {
 	position: absolute;
 	left: 10.286px;
 	top: 9.873px;
@@ -741,7 +744,7 @@
 	font-size: 20px;
 	color: rgba(26,19,17,1);
 }
-.___logo_2x_Class {
+.logo_island_Class {
 	position: absolute;
 	width: 147px;
 	height: 130px;

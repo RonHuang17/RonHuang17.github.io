@@ -37,11 +37,17 @@
 	--web-center-vertically: true;
 	--web-enable-deep-linking: true;
 }
-@keyframes  {
+@keyframes fadein {
 
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
 
 }
-.___2x_Class {
+.background_Class {
 	position: absolute;
 	width: 847px;
 	height: 596px;
@@ -49,53 +55,26 @@
 	top: 0px;
 	overflow: visible;
 }
-.___2_Class {
+.layer_2_Class {
 	position: absolute;
-	width: 747.671px;
-	height: 317.283px;
-	left: 48.38px;
+	width: 748px;
+	height: 318px;
+	left: 48.49px;
 	top: 195.75px;
 	overflow: visible;
 }
-._______Class {
+.white_block_Class {
 	position: absolute;
-	width: 747.671px;
-	height: 317.283px;
+	width: 748px;
+	height: 318px;
 	left: 0px;
 	top: 0px;
-	overflow: visible;
-}
-._______o_Class {
-	opacity: 0.8;
-}
-._______o {
-	position: absolute;
-	overflow: visible;
-	width: 747.671px;
-	height: 317.283px;
-	left: 0px;
-	top: 0px;
-}
-.__179_Class {
-	position: absolute;
-	width: 634.426px;
-	height: 268.016px;
-	left: 67.08px;
-	top: 28.524px;
-	overflow: visible;
-}
-.__176_Class {
-	position: absolute;
-	width: 442px;
-	height: 263px;
-	left: 192.426px;
-	top: 5.016px;
 	overflow: visible;
 }
 ._________5___Aa__Ii_Uu__Ee__Oo_Class {
 	position: absolute;
-	left: 0px;
-	top: 0px;
+	left: 259.396px;
+	top: 33.54px;
 	overflow: visible;
 	width: 443px;
 	white-space: nowrap;
@@ -110,52 +89,29 @@
 }
 .____iconBig_Class {
 	position: absolute;
-	width: 172.08px;
-	height: 238.806px;
+	width: 173px;
+	height: 239px;
+	left: 66.97px;
+	top: 28.52px;
+	overflow: visible;
+}
+.____iconBig_gx_Class {
+	position: absolute;
+	width: 173px;
+	height: 239px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
-._____Class {
-	position: absolute;
-	left: 12.714px;
-	top: 0px;
-	overflow: visible;
-	width: 144px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: DFPOP1-W9-WIN-BF;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 35.82857131958008px;
-	color: rgba(26,19,17,1);
-}
-.___137_Class {
-	opacity: 0.75;
-	position: absolute;
-	width: 172.08px;
-	height: 172.08px;
-	left: 0px;
-	top: 66.726px;
-	overflow: visible;
-}
-.___138_Class {
-	position: absolute;
-	width: 141.913px;
-	height: 141.913px;
-	left: 8.133px;
-	top: 74.834px;
-	overflow: visible;
-}
-.____Class {
+.menu_bar_Class {
 	position: absolute;
 	width: 782.839px;
 	height: 136.43px;
-	left: 39.812px;
-	top: 30px;
+	left: 40.812px;
+	top: 31px;
 	overflow: visible;
 }
-.___145_y {
+.rectangle_145_g {
 	filter: drop-shadow(7px 7px 5px rgba(26, 19, 17, 0.749));
 	position: absolute;
 	overflow: visible;
@@ -164,7 +120,7 @@
 	left: 0px;
 	top: 0.843px;
 }
-.___icon_Class {
+.icon_toolbox_Class {
 	position: absolute;
 	width: 120.48px;
 	height: 125.04px;
@@ -246,7 +202,7 @@
 	left: 0px;
 	top: 0px;
 }
-.____ba_Class {
+.____Class {
 	position: absolute;
 	left: 18.343px;
 	top: 4.626px;
@@ -262,7 +218,7 @@
 	font-size: 17.954959869384766px;
 	color: rgba(255,255,255,1);
 }
-.____bb_Class {
+.____hc_Class {
 	position: absolute;
 	left: 18.343px;
 	top: 4.626px;
@@ -278,7 +234,7 @@
 	font-size: 17.954959869384766px;
 	color: rgba(26,19,17,1);
 }
-.__icon_Class {
+.icon_homepage_Class {
 	position: absolute;
 	width: 138.72px;
 	height: 132.523px;
@@ -339,7 +295,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.___152_bj {
+.___152_hl {
 	position: absolute;
 	overflow: visible;
 	width: 100.857px;
@@ -363,7 +319,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-.___bl_Class {
+.___hn_Class {
 	position: absolute;
 	left: 29.083px;
 	top: 9.872px;
@@ -379,7 +335,7 @@
 	font-size: 20px;
 	color: rgba(26,19,17,1);
 }
-.__icon_bm_Class {
+.icon_exam_Class {
 	position: absolute;
 	width: 119.76px;
 	height: 119.516px;
@@ -420,7 +376,7 @@
 	left: 0px;
 	top: 0px;
 }
-.___br_Class {
+.___ht_Class {
 	position: absolute;
 	left: 26.726px;
 	top: 4.503px;
@@ -436,7 +392,7 @@
 	font-size: 17.83687973022461px;
 	color: rgba(255,255,255,1);
 }
-.___bs_Class {
+.___hu_Class {
 	position: absolute;
 	left: 26.726px;
 	top: 4.503px;
@@ -460,7 +416,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.____icon_Class {
+.icon_profile_Class {
 	position: absolute;
 	width: 138.72px;
 	height: 127.231px;
@@ -509,7 +465,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.___155_b {
+.___155_h {
 	position: absolute;
 	overflow: visible;
 	width: 100.857px;
@@ -517,7 +473,7 @@
 	left: 0px;
 	top: 0px;
 }
-._____b_Class {
+._____Class {
 	position: absolute;
 	left: 10.286px;
 	top: 9.873px;
@@ -533,7 +489,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-._____ca_Class {
+._____h_Class {
 	position: absolute;
 	left: 10.286px;
 	top: 9.873px;
@@ -549,7 +505,7 @@
 	font-size: 20px;
 	color: rgba(26,19,17,1);
 }
-.___logo_2x_Class {
+.logo_island_Class {
 	position: absolute;
 	width: 147px;
 	height: 130px;

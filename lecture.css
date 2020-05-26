@@ -37,46 +37,41 @@
 	--web-center-vertically: true;
 	--web-enable-deep-linking: true;
 }
-@keyframes  {
+@keyframes fadein {
 
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
 
 }
-.___2x_Class {
+.background_Class {
 	position: absolute;
 	width: 847px;
 	height: 596px;
-	left: -1.89px;
+	left: -0.89px;
 	top: -0.276px;
 	overflow: visible;
 }
-._______Class {
-	opacity: 0.8;
-}
-.______ {
+.white_block_Class {
 	position: absolute;
+	width: 748px;
+	height: 318px;
+	left: 48.38px;
+	top: 196.474px;
 	overflow: visible;
-	width: 747.671px;
-	height: 317.283px;
-	left: 48.49px;
-	top: 195.75px;
 }
-.___2_Class {
+.layer_2_Class {
 	position: absolute;
-	width: 793.035px;
+	width: 773.104px;
 	height: 342.875px;
-	left: 51.835px;
+	left: 71.766px;
 	top: 207.409px;
 	overflow: visible;
 }
-.__79_Class {
-	position: absolute;
-	width: 133.948px;
-	height: 58.284px;
-	left: 19.931px;
-	top: 0px;
-	overflow: visible;
-}
-.__75_Class {
+.text_block_1_Class {
 	position: absolute;
 	width: 133.948px;
 	height: 58.284px;
@@ -84,37 +79,21 @@
 	top: 0px;
 	overflow: visible;
 }
-.___61_Class {
+.rectangle_61_Class {
 	opacity: 0.26;
 }
-.___61 {
+.rectangle_61 {
 	position: absolute;
 	overflow: visible;
 	width: 133.948px;
 	height: 58.284px;
 	left: 0px;
 	top: 0px;
-}
-.__78_Class {
-	position: absolute;
-	width: 75px;
-	height: 25px;
-	left: 29.351px;
-	top: 20.083px;
-	overflow: visible;
-}
-.__76_Class {
-	position: absolute;
-	width: 75px;
-	height: 25px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
 }
 .____Class {
 	position: absolute;
-	left: 0px;
-	top: 0px;
+	left: 29.351px;
+	top: 20.083px;
 	overflow: visible;
 	width: 76px;
 	white-space: nowrap;
@@ -127,18 +106,10 @@
 	font-size: 25.06130027770996px;
 	color: rgba(255,255,255,1);
 }
-.__77_Class {
+.____cy_Class {
 	position: absolute;
-	width: 75px;
-	height: 25px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-.____g_Class {
-	position: absolute;
-	left: 0px;
-	top: 0px;
+	left: 29.351px;
+	top: 20.083px;
 	overflow: visible;
 	width: 76px;
 	white-space: nowrap;
@@ -151,53 +122,29 @@
 	font-size: 25.06130027770996px;
 	color: rgba(26,19,17,1);
 }
-.__84_Class {
+.text_block_2_Class {
 	position: absolute;
 	width: 133.948px;
 	height: 40.083px;
-	left: 20.903px;
+	left: 0.972px;
 	top: 82.816px;
 	overflow: visible;
 }
-.__80_Class {
-	position: absolute;
-	width: 133.948px;
-	height: 40.083px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-.___62_Class {
+.rectangle_62_Class {
 	opacity: 0.26;
 }
-.___62 {
+.rectangle_62 {
 	position: absolute;
 	overflow: visible;
 	width: 133.948px;
 	height: 40.083px;
 	left: 0px;
 	top: 0px;
-}
-.__83_Class {
-	position: absolute;
-	width: 100px;
-	height: 25px;
-	left: 17.582px;
-	top: 9.028px;
-	overflow: visible;
-}
-.__81_Class {
-	position: absolute;
-	width: 100px;
-	height: 25px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
 }
 ._____Class {
 	position: absolute;
-	left: 0px;
-	top: 0px;
+	left: 17.582px;
+	top: 9.028px;
 	overflow: visible;
 	width: 101px;
 	white-space: nowrap;
@@ -210,18 +157,10 @@
 	font-size: 25.06130027770996px;
 	color: rgba(255,255,255,1);
 }
-.__82_Class {
+._____c_Class {
 	position: absolute;
-	width: 100px;
-	height: 25px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-._____hg_Class {
-	position: absolute;
-	left: 0px;
-	top: 0px;
+	left: 17.582px;
+	top: 9.028px;
 	overflow: visible;
 	width: 101px;
 	white-space: nowrap;
@@ -234,61 +173,29 @@
 	font-size: 25.06130027770996px;
 	color: rgba(26,19,17,1);
 }
-.__91_Class {
+.text_block_3_Class {
 	position: absolute;
 	width: 133.948px;
 	height: 40.083px;
-	left: 19.978px;
+	left: 0.048px;
 	top: 142.613px;
 	overflow: visible;
 }
-.__85_Class {
-	position: absolute;
-	width: 133.948px;
-	height: 40.083px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-.___63_Class {
+.rectangle_63_Class {
 	opacity: 0.26;
 }
-.___63 {
+.rectangle_63 {
 	position: absolute;
 	overflow: visible;
 	width: 133.948px;
 	height: 40.083px;
 	left: 0px;
 	top: 0px;
-}
-.__90_Class {
-	position: absolute;
-	width: 99px;
-	height: 20px;
-	left: 17.582px;
-	top: 11.445px;
-	overflow: visible;
-}
-.__87_Class {
-	position: absolute;
-	width: 99px;
-	height: 20px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-.__86_Class {
-	position: absolute;
-	width: 99px;
-	height: 20px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
 }
 .______Class {
 	position: absolute;
-	left: 0px;
-	top: 0px;
+	left: 17.582px;
+	top: 11.445px;
 	overflow: visible;
 	width: 100px;
 	white-space: nowrap;
@@ -301,26 +208,10 @@
 	font-size: 19.89196014404297px;
 	color: rgba(255,255,255,1);
 }
-.__89_Class {
+.______c_Class {
 	position: absolute;
-	width: 99px;
-	height: 20px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-.__88_Class {
-	position: absolute;
-	width: 99px;
-	height: 20px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-.______hq_Class {
-	position: absolute;
-	left: 0px;
-	top: 0px;
+	left: 17.582px;
+	top: 11.445px;
 	overflow: visible;
 	width: 100px;
 	white-space: nowrap;
@@ -333,11 +224,11 @@
 	font-size: 19.89196014404297px;
 	color: rgba(26,19,17,1);
 }
-.___64_Class {
+.videodemo_Class {
 	position: absolute;
 	width: 440.987px;
 	height: 238.881px;
-	left: 228.003px;
+	left: 208.072px;
 	top: 10.524px;
 	overflow: visible;
 }
@@ -345,9 +236,13 @@
 	position: absolute;
 	width: 112.32px;
 	height: 95.917px;
-	left: 680.715px;
+	left: 660.784px;
 	top: 246.958px;
 	overflow: visible;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
 }
 .___65_Class {
 	opacity: 0.75;
@@ -374,195 +269,103 @@
 	top: 0px;
 	overflow: visible;
 }
-.___73_Class {
-	position: absolute;
-	width: 25.562px;
-	height: 25.562px;
-	left: 0px;
-	top: 275.29px;
-	overflow: visible;
-}
 .playback_Class {
 	position: absolute;
-	width: 550.432px;
-	height: 120.744px;
-	left: 26.475px;
-	top: 194.315px;
+	width: 548px;
+	height: 117px;
+	left: 12.344px;
+	top: 199.315px;
 	overflow: visible;
 }
 .buttom_backward_Class {
 	position: absolute;
-	width: 79.44px;
-	height: 79.2px;
-	left: 314.752px;
-	top: 41.424px;
+	width: 80px;
+	height: 80px;
+	left: 308px;
+	top: 37px;
 	overflow: visible;
 }
-.___74_Class {
-	opacity: 0.75;
+.buttom_backward_de_Class {
 	position: absolute;
-	width: 79.44px;
-	height: 79.2px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-.__98_Class {
-	position: absolute;
-	width: 52.169px;
-	height: 52.169px;
-	left: 7.323px;
-	top: 7.16px;
-	overflow: visible;
-}
-.___75_Class {
-	position: absolute;
-	width: 52.169px;
-	height: 52.169px;
+	width: 80px;
+	height: 80px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
 .buttom_forward_Class {
 	position: absolute;
-	width: 79.44px;
-	height: 79.2px;
-	left: 470.992px;
-	top: 41.544px;
+	width: 80px;
+	height: 80px;
+	left: 468px;
+	top: 37px;
 	overflow: visible;
 }
-.___76_Class {
-	opacity: 0.75;
+.buttom_forward_dg_Class {
 	position: absolute;
-	width: 79.44px;
-	height: 79.2px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-.__100_Class {
-	position: absolute;
-	width: 52.169px;
-	height: 52.169px;
-	left: 7.365px;
-	top: 7.126px;
-	overflow: visible;
-}
-.___77_Class {
-	position: absolute;
-	width: 52.169px;
-	height: 52.169px;
+	width: 80px;
+	height: 80px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
 .buttom_pause_Class {
 	position: absolute;
-	width: 79.2px;
-	height: 79.44px;
-	left: 391.312px;
-	top: 40.104px;
+	width: 80px;
+	height: 80px;
+	left: 388px;
+	top: 36px;
 	overflow: visible;
 }
-.___78_Class {
-	opacity: 0.75;
+.buttom_pause_di_Class {
 	position: absolute;
-	width: 79.2px;
-	height: 79.44px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-.__102_Class {
-	position: absolute;
-	width: 52.169px;
-	height: 52.169px;
-	left: 7.163px;
-	top: 7.305px;
-	overflow: visible;
-}
-.___79_Class {
-	position: absolute;
-	width: 52.169px;
-	height: 52.169px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-.buttom_volumeup_Class {
-	position: absolute;
-	width: 66.48px;
-	height: 66.24px;
-	left: 49.44px;
-	top: 0.96px;
-	overflow: visible;
-}
-.___71_Class {
-	opacity: 0.75;
-	position: absolute;
-	width: 64.8px;
-	height: 64.56px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-.__96_Class {
-	position: absolute;
-	width: 34.358px;
-	height: 34.358px;
-	left: 8.203px;
-	top: 8.024px;
-	overflow: visible;
-}
-.___72_Class {
-	position: absolute;
-	width: 34.358px;
-	height: 34.358px;
+	width: 80px;
+	height: 80px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
 .buttom_volumedown_Class {
 	position: absolute;
-	width: 66.48px;
-	height: 66.24px;
+	width: 67px;
+	height: 67px;
+	left: 0px;
+	top: 2px;
+	overflow: visible;
+}
+.buttom_volumedown_dk_Class {
+	position: absolute;
+	width: 67px;
+	height: 67px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
-.__94_Class {
+.buttom_volumeup_Class {
 	position: absolute;
-	width: 66.48px;
-	height: 66.24px;
+	width: 74px;
+	height: 74px;
+	left: 49px;
+	top: 0px;
+	overflow: visible;
+}
+.buttom_volumeup_dm_Class {
+	position: absolute;
+	width: 74px;
+	height: 74px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
-.___69_Class {
-	position: absolute;
-	width: 66.48px;
-	height: 66.24px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-.___70_Class {
-	position: absolute;
-	width: 36.137px;
-	height: 36.137px;
-	left: 8.25px;
-	top: 8.094px;
-	overflow: visible;
-}
-.____ii_Class {
+.menu_bar_Class {
 	position: absolute;
 	width: 782.839px;
 	height: 136.43px;
-	left: 39.702px;
-	top: 30.724px;
+	left: 40.702px;
+	top: 31.724px;
 	overflow: visible;
 }
-.___145_ik {
+.rectangle_145_dp {
 	filter: drop-shadow(7px 7px 5px rgba(26, 19, 17, 0.749));
 	position: absolute;
 	overflow: visible;
@@ -571,7 +374,7 @@
 	left: 0px;
 	top: 0.843px;
 }
-.___icon_Class {
+.icon_toolbox_Class {
 	position: absolute;
 	width: 120.48px;
 	height: 125.04px;
@@ -653,7 +456,7 @@
 	left: 0px;
 	top: 0px;
 }
-.____iv_Class {
+.____d_Class {
 	position: absolute;
 	left: 18.343px;
 	top: 4.626px;
@@ -669,7 +472,7 @@
 	font-size: 17.954959869384766px;
 	color: rgba(255,255,255,1);
 }
-.____iw_Class {
+.____ea_Class {
 	position: absolute;
 	left: 18.343px;
 	top: 4.626px;
@@ -685,7 +488,7 @@
 	font-size: 17.954959869384766px;
 	color: rgba(26,19,17,1);
 }
-.__icon_Class {
+.icon_homepage_Class {
 	position: absolute;
 	width: 138.72px;
 	height: 132.523px;
@@ -746,7 +549,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.___152_i {
+.___152_ea {
 	position: absolute;
 	overflow: visible;
 	width: 100.857px;
@@ -770,7 +573,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-.___i_Class {
+.___ec_Class {
 	position: absolute;
 	left: 29.083px;
 	top: 9.872px;
@@ -786,7 +589,7 @@
 	font-size: 20px;
 	color: rgba(26,19,17,1);
 }
-.__icon_i_Class {
+.icon_exam_Class {
 	position: absolute;
 	width: 119.76px;
 	height: 119.516px;
@@ -827,7 +630,7 @@
 	left: 0px;
 	top: 0px;
 }
-.___jd_Class {
+.___ei_Class {
 	position: absolute;
 	left: 26.726px;
 	top: 4.503px;
@@ -843,7 +646,7 @@
 	font-size: 17.83687973022461px;
 	color: rgba(255,255,255,1);
 }
-.___je_Class {
+.___ej_Class {
 	position: absolute;
 	left: 26.726px;
 	top: 4.503px;
@@ -867,7 +670,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.____icon_Class {
+.icon_profile_Class {
 	position: absolute;
 	width: 138.72px;
 	height: 127.231px;
@@ -916,7 +719,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.___155_jn {
+.___155_es {
 	position: absolute;
 	overflow: visible;
 	width: 100.857px;
@@ -924,7 +727,7 @@
 	left: 0px;
 	top: 0px;
 }
-._____jo_Class {
+._____et_Class {
 	position: absolute;
 	left: 10.286px;
 	top: 9.873px;
@@ -940,7 +743,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-._____jp_Class {
+._____eu_Class {
 	position: absolute;
 	left: 10.286px;
 	top: 9.873px;
@@ -956,7 +759,7 @@
 	font-size: 20px;
 	color: rgba(26,19,17,1);
 }
-.___logo_2x_Class {
+.logo_island_Class {
 	position: absolute;
 	width: 147px;
 	height: 130px;
