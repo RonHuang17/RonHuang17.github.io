@@ -1,0 +1,454 @@
+.mediaViewInfo {
+	--web-view-name: Lecture;
+	--web-view-id: Lecture;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Lecture;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Lecture_Class {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 841.89px;
+	height: 595.276px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Lecture;
+	--web-view-id: Lecture;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.background_Class {
+	position: absolute;
+	width: 847px;
+	height: 596px;
+	left: -0.89px;
+	top: -0.276px;
+	overflow: visible;
+}
+.white_block_Class {
+	position: absolute;
+	width: 748px;
+	height: 318px;
+	left: 48.38px;
+	top: 196.474px;
+	overflow: visible;
+}
+.layer_2_Class {
+	position: absolute;
+	width: 773.784px;
+	height: 342.961px;
+	left: 71.766px;
+	top: 207.409px;
+	overflow: visible;
+}
+.text_block_1_Class {
+	position: absolute;
+	width: 133.948px;
+	height: 58.284px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.rectangle_61_Class {
+	opacity: 0.26;
+}
+.rectangle_61 {
+	position: absolute;
+	overflow: visible;
+	width: 133.948px;
+	height: 58.284px;
+	left: 0px;
+	top: 0px;
+}
+.____Class {
+	position: absolute;
+	left: 29.351px;
+	top: 20.083px;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	line-height: 30.07356071472168px;
+	margin-top: -2.5061302185058594px;
+	text-align: left;
+	font-family: DFPOP1-W7-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25.06130027770996px;
+	color: rgba(255,255,255,1);
+}
+.____br_Class {
+	position: absolute;
+	left: 29.351px;
+	top: 20.083px;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	line-height: 30.07356071472168px;
+	margin-top: -2.5061302185058594px;
+	text-align: left;
+	font-family: DFPOP1-W7-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25.06130027770996px;
+	color: rgba(26,19,17,1);
+}
+.text_block_2_Class {
+	position: absolute;
+	width: 133.948px;
+	height: 40.083px;
+	left: 0.972px;
+	top: 82.816px;
+	overflow: visible;
+}
+.rectangle_62_Class {
+	opacity: 0.26;
+}
+.rectangle_62 {
+	position: absolute;
+	overflow: visible;
+	width: 133.948px;
+	height: 40.083px;
+	left: 0px;
+	top: 0px;
+}
+._____Class {
+	position: absolute;
+	left: 17.582px;
+	top: 9.028px;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	line-height: 30.07356071472168px;
+	margin-top: -2.5061302185058594px;
+	text-align: left;
+	font-family: DFPOP1-W7-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25.06130027770996px;
+	color: rgba(255,255,255,1);
+}
+._____bv_Class {
+	position: absolute;
+	left: 17.582px;
+	top: 9.028px;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	line-height: 30.07356071472168px;
+	margin-top: -2.5061302185058594px;
+	text-align: left;
+	font-family: DFPOP1-W7-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25.06130027770996px;
+	color: rgba(26,19,17,1);
+}
+.text_block_3_Class {
+	position: absolute;
+	width: 133.948px;
+	height: 40.083px;
+	left: 0.048px;
+	top: 142.613px;
+	overflow: visible;
+}
+.rectangle_63_Class {
+	opacity: 0.26;
+}
+.rectangle_63 {
+	position: absolute;
+	overflow: visible;
+	width: 133.948px;
+	height: 40.083px;
+	left: 0px;
+	top: 0px;
+}
+.______Class {
+	position: absolute;
+	left: 17.582px;
+	top: 11.445px;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	line-height: 23.87035369873047px;
+	margin-top: -1.98919677734375px;
+	text-align: left;
+	font-family: DFPOP1-W7-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19.89196014404297px;
+	color: rgba(255,255,255,1);
+}
+.______bz_Class {
+	position: absolute;
+	left: 17.582px;
+	top: 11.445px;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	line-height: 23.87035369873047px;
+	margin-top: -1.98919677734375px;
+	text-align: left;
+	font-family: DFPOP1-W7-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19.89196014404297px;
+	color: rgba(26,19,17,1);
+}
+.buttom_exit_Class {
+	position: absolute;
+	width: 113px;
+	height: 96px;
+	left: 660.784px;
+	top: 246.961px;
+	overflow: visible;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
+}
+.buttom_exit_b_Class {
+	position: absolute;
+	width: 113px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.videodemo_Class {
+	position: absolute;
+	width: 440.987px;
+	height: 238.881px;
+	left: 208.072px;
+	top: 10.524px;
+	overflow: visible;
+}
+.playback_Class {
+	position: absolute;
+	width: 548px;
+	height: 117px;
+	left: 12.344px;
+	top: 199.315px;
+	overflow: visible;
+}
+.buttom_backward_Class {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 308px;
+	top: 37px;
+	overflow: visible;
+}
+.buttom_backward_b_Class {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.buttom_forward_Class {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 468px;
+	top: 37px;
+	overflow: visible;
+}
+.buttom_forward_b_Class {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.buttom_pause_Class {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 388px;
+	top: 36px;
+	overflow: visible;
+}
+.buttom_pause_b_Class {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.buttom_volumedown_Class {
+	position: absolute;
+	width: 67px;
+	height: 67px;
+	left: 0px;
+	top: 2px;
+	overflow: visible;
+}
+.buttom_volumedown_cb_Class {
+	position: absolute;
+	width: 67px;
+	height: 67px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.buttom_volumeup_Class {
+	position: absolute;
+	width: 74px;
+	height: 74px;
+	left: 49px;
+	top: 0px;
+	overflow: visible;
+}
+.buttom_volumeup_cd_Class {
+	position: absolute;
+	width: 74px;
+	height: 74px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.menu_bar_Class {
+	position: absolute;
+	width: 783.118px;
+	height: 136.906px;
+	left: 40.702px;
+	top: 31.724px;
+	overflow: visible;
+}
+.rectangle_145_cg {
+	filter: drop-shadow(7px 7px 5px rgba(26, 19, 17, 0.749));
+	position: absolute;
+	overflow: visible;
+	width: 793.514px;
+	height: 142.522px;
+	left: 0px;
+	top: 0.843px;
+}
+.icon_toolbox_Class {
+	position: absolute;
+	width: 121px;
+	height: 126px;
+	left: 246.588px;
+	top: 8.706px;
+	overflow: visible;
+}
+.icon_toolbox_ci_Class {
+	position: absolute;
+	width: 121px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.icon_exam_Class {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	left: 363.328px;
+	top: 12.606px;
+	overflow: visible;
+}
+.icon_exam_ck_Class {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.icon_homepage_Class {
+	position: absolute;
+	width: 139px;
+	height: 133px;
+	left: 505.638px;
+	top: 3.906px;
+	overflow: visible;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
+}
+.icon_homepage_cm_Class {
+	position: absolute;
+	width: 139px;
+	height: 133px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.icon_profile_Class {
+	position: absolute;
+	width: 139px;
+	height: 128px;
+	left: 644.118px;
+	top: 7.996px;
+	overflow: visible;
+}
+.icon_profile_co_Class {
+	position: absolute;
+	width: 139px;
+	height: 128px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.logo_island_Class {
+	position: absolute;
+	width: 147px;
+	height: 130px;
+	left: 10.408px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+
+.video-wrapper{
+    position: absolute;
+    top: 0px;
+	left:240px;
+}
+.video-wrapper iframe{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 400px;
+    height: 250px;
+}

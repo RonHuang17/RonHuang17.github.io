@@ -1,0 +1,355 @@
+.mediaViewInfo {
+	--web-view-name: Exam;
+	--web-view-id: Exam;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Exam;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Exam_Class {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 841.89px;
+	height: 595.276px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Exam;
+	--web-view-id: Exam;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.background_Class {
+	position: absolute;
+	width: 847px;
+	height: 596px;
+	left: -1.78px;
+	top: -0.276px;
+	overflow: visible;
+}
+.layer_2_Class {
+	position: absolute;
+	width: 784.4px;
+	height: 342.25px;
+	left: 12.09px;
+	top: 196.474px;
+	overflow: visible;
+}
+.white_block_Class {
+	position: absolute;
+	width: 748px;
+	height: 318px;
+	left: 36.4px;
+	top: 0px;
+	overflow: visible;
+}
+.________________Class {
+	position: absolute;
+	left: 184.742px;
+	top: 67.259px;
+	overflow: visible;
+	width: 467.943px;
+	height: 67.425px;
+	line-height: 34.80000305175781px;
+	margin-top: -2.9000015258789062px;
+	text-align: left;
+	font-family: DFPOP1-W7-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(26,19,17,1);
+}
+.Sa_icelen_no_mita_a_mihatatana_Class {
+	position: absolute;
+	left: 191.839px;
+	top: 225.077px;
+	overflow: visible;
+	width: 467.943px;
+	height: 79.477px;
+	line-height: 32px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: DFPOP1-W7-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(26,19,17,1);
+}
+.text_blank_Class {
+	position: absolute;
+	width: 523.278px;
+	height: 67.939px;
+	left: 151.854px;
+	top: 132.143px;
+	overflow: visible;
+}
+.rectangle_28_s {
+	filter: drop-shadow(7px 7px 5px rgba(26, 19, 17, 0.749));
+	position: absolute;
+	overflow: visible;
+	width: 538.278px;
+	height: 82.939px;
+	left: 0px;
+	top: 0px;
+}
+.rectangle_29 {
+	filter: drop-shadow(6.617px 6.617px 4.727px rgba(26, 19, 17, 0.749));
+	position: absolute;
+	overflow: visible;
+	width: 504.26px;
+	height: 65.706px;
+	left: 18.257px;
+	top: 6.727px;
+}
+._______________Class {
+	position: absolute;
+	left: 194.921px;
+	top: 151.624px;
+	overflow: visible;
+	width: 467.943px;
+	height: 69.425px;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: DFPOP1-W7-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(26,19,17,1);
+}
+.rectangle_30_w {
+	filter: drop-shadow(6.009px 6.009px 4.292px rgba(26, 19, 17, 0.749));
+	position: absolute;
+	overflow: visible;
+	width: 199.438px;
+	height: 92.338px;
+	left: 564.91px;
+	top: 259.976px;
+}
+._____Class {
+	position: absolute;
+	left: 637.261px;
+	top: 264.143px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -10px;
+	text-align: left;
+	font-family: DFPOP1-W7-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(26,19,17,1);
+}
+.ID1_10_Class {
+	position: absolute;
+	left: 640.311px;
+	top: 75.53px;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -8.5px;
+	text-align: left;
+	font-family: DFPOP1-W7-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(26,19,17,1);
+}
+.iconBig_exam_Class {
+	position: absolute;
+	width: 148px;
+	height: 188px;
+	left: 0px;
+	top: 70.416px;
+	overflow: visible;
+}
+.iconBig_exam__Class {
+	position: absolute;
+	width: 148px;
+	height: 188px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.buttom_recordpause_Class {
+	position: absolute;
+	width: 63px;
+	height: 62px;
+	left: 578.13px;
+	top: 280.25px;
+	overflow: visible;
+}
+.buttom_recordpause__Class {
+	position: absolute;
+	width: 63px;
+	height: 62px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.buttom_record_Class {
+	position: absolute;
+	width: 57px;
+	height: 57px;
+	left: 639.92px;
+	top: 280.706px;
+	overflow: visible;
+}
+.buttom_record__Class {
+	position: absolute;
+	width: 57px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.buttom_recordplay_Class {
+	position: absolute;
+	width: 61px;
+	height: 61px;
+	left: 692.91px;
+	top: 279.726px;
+	overflow: visible;
+}
+.buttom_recordplay__Class {
+	position: absolute;
+	width: 61px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.menu_bar_Class {
+	position: absolute;
+	width: 783.118px;
+	height: 136.906px;
+	left: 40.812px;
+	top: 31.724px;
+	overflow: visible;
+}
+.rectangle_145_ {
+	filter: drop-shadow(7px 7px 5px rgba(26, 19, 17, 0.749));
+	position: absolute;
+	overflow: visible;
+	width: 793.514px;
+	height: 142.522px;
+	left: 0px;
+	top: 0.843px;
+}
+.icon_toolbox_Class {
+	position: absolute;
+	width: 121px;
+	height: 126px;
+	left: 246.588px;
+	top: 8.706px;
+	overflow: visible;
+}
+.icon_toolbox_bb_Class {
+	position: absolute;
+	width: 121px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.icon_exam_Class {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	left: 363.328px;
+	top: 12.606px;
+	overflow: visible;
+}
+.icon_exam_bd_Class {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.icon_homepage_Class {
+	position: absolute;
+	width: 139px;
+	height: 133px;
+	left: 505.638px;
+	top: 3.906px;
+	overflow: visible;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
+}
+.icon_homepage_bf_Class {
+	position: absolute;
+	width: 139px;
+	height: 133px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.icon_profile_Class {
+	position: absolute;
+	width: 139px;
+	height: 128px;
+	left: 644.118px;
+	top: 7.996px;
+	overflow: visible;
+}
+.icon_profile_bh_Class {
+	position: absolute;
+	width: 139px;
+	height: 128px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.logo_island_Class {
+	position: absolute;
+	width: 147px;
+	height: 130px;
+	left: 10.408px;
+	top: 0px;
+	overflow: visible;
+}
+
+.myAudio{
+	position: absolute;
+	width: 150px;
+	height: 50px;
+	right:150px;
+	top:1px;
+}

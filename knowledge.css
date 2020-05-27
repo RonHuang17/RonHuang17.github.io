@@ -1,0 +1,204 @@
+.mediaViewInfo {
+	--web-view-name: Knowledge;
+	--web-view-id: Knowledge;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Knowledge;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Knowledge_Class {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 841.89px;
+	height: 595.276px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Knowledge;
+	--web-view-id: Knowledge;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.background_Class {
+	position: absolute;
+	width: 847px;
+	height: 596px;
+	left: -1.78px;
+	top: 0px;
+	overflow: visible;
+}
+.layer_2_Class {
+	position: absolute;
+	width: 748px;
+	height: 318px;
+	left: 48.49px;
+	top: 195.75px;
+	overflow: visible;
+}
+.white_block_Class {
+	position: absolute;
+	width: 748px;
+	height: 318px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+._________5___Aa__Ii_Uu__Ee__Oo_Class {
+	position: absolute;
+	left: 259.396px;
+	top: 33.54px;
+	overflow: visible;
+	width: 443px;
+	white-space: nowrap;
+	line-height: 47.77143096923828px;
+	margin-top: -11.94286060333252px;
+	text-align: left;
+	font-family: DFPOP1-W9-WIN-BF;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23.885709762573242px;
+	color: rgba(26,19,17,1);
+}
+.iconBig_knowledge_Class {
+	position: absolute;
+	width: 173px;
+	height: 239px;
+	left: 66.97px;
+	top: 29.52px;
+	overflow: visible;
+}
+.iconBig_knowledge_du_Class {
+	position: absolute;
+	width: 173px;
+	height: 239px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.menu_bar_Class {
+	position: absolute;
+	width: 783.118px;
+	height: 136.906px;
+	left: 40.812px;
+	top: 32px;
+	overflow: visible;
+}
+.rectangle_145_dx {
+	filter: drop-shadow(7px 7px 5px rgba(26, 19, 17, 0.749));
+	position: absolute;
+	overflow: visible;
+	width: 793.514px;
+	height: 142.522px;
+	left: 0px;
+	top: 0.843px;
+}
+.icon_toolbox_Class {
+	position: absolute;
+	width: 121px;
+	height: 126px;
+	left: 246.588px;
+	top: 8.706px;
+	overflow: visible;
+}
+.icon_toolbox_dz_Class {
+	position: absolute;
+	width: 121px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.icon_exam_Class {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	left: 363.328px;
+	top: 12.606px;
+	overflow: visible;
+}
+.icon_exam_d_Class {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.icon_homepage_Class {
+	position: absolute;
+	width: 139px;
+	height: 133px;
+	left: 505.638px;
+	top: 3.906px;
+	overflow: visible;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
+}
+.icon_homepage_d_Class {
+	position: absolute;
+	width: 139px;
+	height: 133px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.icon_profile_Class {
+	position: absolute;
+	width: 139px;
+	height: 128px;
+	left: 644.118px;
+	top: 7.996px;
+	overflow: visible;
+}
+.icon_profile_d_Class {
+	position: absolute;
+	width: 139px;
+	height: 128px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.logo_island_Class {
+	position: absolute;
+	width: 147px;
+	height: 130px;
+	left: 10.408px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
